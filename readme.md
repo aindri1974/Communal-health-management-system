@@ -1,13 +1,4 @@
-# Database Project README
-
-## Project Overview
-**This project contains a collection of SQL and PL/SQL commands designed to manage and retrieve data from a healthcare system database.** The database includes information about patients, doctors, hospitals, medical records, and environmental data.
-
-## Database Schema
-The database schema includes the following tables:
-
-- `Location`
-- `Hospitals`
+# Communal-health-management-system
 - `Doctor`
 - `Patient`
 - `PatientPhone`
